@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">ProbSession</string>
+    <string name="name_bank">WorldSkills Bank</string>
+    <string name="name_branches">Отделения и банкоматы</string>
+    <string name="name_course">Курсы валют</string>
+    <string name="USD">USD</string>
+    <string name="EUR">EUR</string>
+    <string name="name_come">ВОЙТИ</string>
+
+
+    <string name="TitleAlert">Авторизация</string>
+    <string name="textAf">Введите Ваш логин и пароль</string>
+    <string name="hint_log">Логин</string>
+    <string name="hint_pas">Пароль</string>
+    <string name="cancel">Отменить</string>
+    <string name="add">Добавить</string>
+
+    <string name="text_main_main">Главная</string>
+    <string name="text_main_pay">Платежи</string>
+    <string name="text_main_his">История</string>
+    <string name="text_main_mes">Диалоги</string>
+
+    <string name="card">МОИ КАРТЫ</string>
+    <string name="schet">МОИ СЧЕТА</string>
+    <string name="credits">МОИ КРЕДИТЫ</string>
+    <string name="card_deb">Дебетовая карта</string>
+    <string name="score">Текущий счёт</string>
+
+    <string name="rename_password">Изменение пароля</string>
+    <string name="rename_login">Измененение логина</string>
+    <string name="history">Истроия посещений</string>
+    <string name="information">Информация о приложении</string>
+    <string name="logout">Выход</string>
+
+    <string name="rename">Изменить</string>
+    <string name="scan_pas">Введите новый пароль</string>
+    <string name="scan_log">Введите новый логин</string>
+
+    <string name="text_mob">Мобильное приложение WorldSkills Online</string>
+    <string name="version">Версия 1.0.0</string>
+    <string name="deal"><u>Пользовательское соглашение</u></string>
+    <string name="admin">Разработал Галдин Сергей Дмитриевич</string>
+
+    <string name="history_operation">Истроия операций</string>
+    <string name="block">Заблокировать</string>
+    <string name="rename_card">Переименовать</string>
+    <string name="transfer">Перевести</string>
+    <string name="replenish">Пополнить</string>
+
+    <string name="text_block_card">Карта заблокирована</string>
+</resources>
