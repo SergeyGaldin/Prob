@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "919778106982",
+    "firebase_url": "https://itproger-2a82e.firebaseio.com",
+    "project_id": "itproger-2a82e",
+    "storage_bucket": "itproger-2a82e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919778106982:android:1d580d9d599f98306717a7",
+        "android_client_info": {
+          "package_name": "com.les.programm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919778106982-ggn5ve0ns8pv8ocqj57j1a5r53n3iv39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcwEjOW2TBUha_RYPoe8lr6m599WgN0Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919778106982-ggn5ve0ns8pv8ocqj57j1a5r53n3iv39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
