@@ -40,6 +40,9 @@ public class MainActivity extends AppCompatActivity {
         btnRegister = findViewById(R.id.reg);
         root = findViewById(R.id.root);
 
+        auth = FirebaseAuth.getInstance();
+        db = FirebaseDatabase.getInstance();
+        users = db.getReference("Users");
 
         btnRegister.setOnClickListener(new View.OnClickListener() {
             @Override
